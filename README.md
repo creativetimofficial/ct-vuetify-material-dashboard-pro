@@ -232,11 +232,11 @@ At present, we officially aim to support the last two versions of the following 
 ## Resources
 - [Live Preview](https://demos.creative-tim.com/vuetify-material-dashboard-pro?ref=vtymdp-readme)
 - Download Page: [Download](https://www.creative-tim.com/product/vuetify-material-dashboard-pro?ref=vtymdp-readme)
-- Documentation is [here](https://vuetifyjs.com/en/components/api-explorer)
+- Documentation is [Here](https://vuetifyjs.com/en/components/api-explorer)
 - License Agreement: [License](https://www.creative-tim.com/license)
 - Support: [Contact](https://www.creative-tim.com/contact-us)
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-vuetify-material-dashboard/issues)
-- Vue Material Dashboard PRO - [demo](https://www.creative-tim.com/product/vue-material-dashboard-pro?ref=vtymdp-readme)
+- Vue Material Dashboard PRO - [Demo](https://www.creative-tim.com/product/vue-material-dashboard-pro?ref=vtymdp-readme)
 - For Front End Development - [Material Kit Pro ](https://www.creative-tim.com/product/material-kit-pro?ref=vtymdp-readme)
 
 ## Reporting Issues
