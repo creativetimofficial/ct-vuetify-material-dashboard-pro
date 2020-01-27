@@ -1,9 +1,8 @@
 <!--
- IMPORTANT: Please use the following link to create a new issue:
+ Thank you for your interest in working with our products. We just wanted to let you know that the Vuetify Products are made   in collaboration with the creator of Vuetify: John Leider and he has an official Discord Channel called #premium-themes (https://discordapp.com/invite/s93b7Fv) where he is offering support.
 
-  https://www.creative-tim.com/new-issue/vuetify-material-dashboard-pro
-
-**If your issue was not created using the app above, it will be closed immediately.**
+Keep in touch,
+Creative Tim Staff
 -->
 
 <!--
