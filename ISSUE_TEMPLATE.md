@@ -1,5 +1,5 @@
 <!--
- Thank you for your interest in working with our products. We just wanted to let you know that the Vuetify Products are made   in collaboration with the creator of Vuetify: John Leider and he has an official Discord Channel called #premium-themes (https://discordapp.com/invite/s93b7Fv) where he is offering support.
+ Hi! Thank you for your interest in working with our products. We just wanted to let you know that the Vuetify Products are made   in collaboration with the creator of Vuetify: John Leider and he has an official Discord Channel called #premium-themes (https://discordapp.com/invite/s93b7Fv) where he is offering support.
 
 Keep in touch,
 Creative Tim Staff
