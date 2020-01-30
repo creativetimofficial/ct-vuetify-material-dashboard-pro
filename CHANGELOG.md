@@ -1,5 +1,23 @@
 # Change Log
 
+## [2.1.0] 2020-01-30
+### Bugfixing, Updates
+- update to `vuetify@2.2.6`
+- update all dependencies and devDependencies
+- fix(`AppBar`): properly align badge
+- chore(`yarn.lock`): add missing lock file
+- fix(`Pages`): resolve conflicting image styles
+- fix(`Drawer`): update dark conditional
+- fix(`Drawer`): update mini-variant-width
+- fix(`AppBar`): fix dark and alignment issues
+- chore(`packages`): update `vee-validate` to `v3.2.2`
+- fix(`theme`): resolve multiple styling and validation issues
+- fix(`theme`): multiple style and functionality fixes throughout
+- fix(`VueWorldMap`): transpile package
+- fix(`theme`): resolve multiple mobile issues
+- chore(`packages`): add explicit version for vuetify eslint config
+- fix: resolve lint issues
+
 ## [2.0.0] 2019-10-18
 ### Bugfixing, Updates
 - update to `vuetify@2.1`
