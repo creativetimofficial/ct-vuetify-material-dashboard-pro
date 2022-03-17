@@ -1,13 +1,13 @@
-# [Vuetify Material Dashboard PRO](https://www.creative-tim.com/product/vuetify-material-dashboard-pro?ref=vtymdp-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/share?url=https%3A%2F%2Fwww.creative-tim.com%2Fvuetify-material-dashboard-pro&text=Vuetify%20Material%20Dashboard%20PRO%20by%20Creative%20Tim&via=CreativeTim&hashtags=vuejs%20%23vuex%20%23vuetify%20%23material)
+# [Vuetify Material Dashboard 2 PRO](https://www.creative-tim.com/product/vuetify-material-dashboard-pro?ref=vtymdp-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/share?url=https%3A%2F%2Fwww.creative-tim.com%2Fvuetify-material-dashboard-pro&text=Vuetify%20Material%20Dashboard%20PRO%20by%20Creative%20Tim&via=CreativeTim&hashtags=vuejs%20%23vuex%20%23vuetify%20%23material)
 
 
-![version](https://img.shields.io/badge/version-2.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vuetify-material-dashboard-pro.svg)](https://github.com/creativetimofficial/ct-vuetify-material-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vuetify-material-dashboard-pro.svg?maxAge=259200)](https://github.com/creativetimofficial/ct-vuetify-material-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/material-dashboard) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![version](https://img.shields.io/badge/version-3.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vuetify-material-dashboard-pro.svg)](https://github.com/creativetimofficial/ct-vuetify-material-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vuetify-material-dashboard-pro.svg?maxAge=259200)](https://github.com/creativetimofficial/ct-vuetify-material-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/material-dashboard) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 ![Product Gif](https://s3.amazonaws.com/creativetim_bucket/products/207/original/opt_mdp_vuetify_thumbnail.jpg?1566575158)
 
-**Vuetify Material Dashboard PRO** is a beautiful resource built over [Vuetify](https://vuetifyjs.com/en/), [Vuex](https://vuex.vuejs.org/installation.html) and [Vuejs](https://vuejs.org/). It will help you get started developing dashboards in no time. Vuetify Material Dashboard PRO is the official Vuejs version of the Original [Material Dashboard PRO](https://www.creative-tim.com/product/material-dashboard-pro). Using the Dashboard is pretty simple but requires basic knowledge of Javascript, [Vuejs](https://vuejs.org/v2/guide/) and [Vue-Router](https://router.vuejs.org/en/).
+**Vuetify Material Dashboard 2 PRO** is a beautiful resource built over [Vuetify](https://vuetifyjs.com/en/), [Vuex](https://vuex.vuejs.org/installation.html) and [Vuejs](https://vuejs.org/). It will help you get started developing dashboards in no time. Vuetify Material Dashboard 2 PRO is the official Vuejs version of the Original [Material Dashboard PRO](https://www.creative-tim.com/product/material-dashboard-pro). Using the Dashboard is pretty simple but requires basic knowledge of Javascript, [Vuejs](https://vuejs.org/v2/guide/) and [Vue-Router](https://router.vuejs.org/en/).
 
-We have created it thinking about things you actually need in a dashboard. **Vuetify Material Dashboard PRO**  contains handpicked and optimized Vuejs plugins. Everything is designed to fit with one another. As you will be able to see, the dashboard you can access on [Creative Tim](https://www.creative-tim.com) is a customization of this product.
+We have created it thinking about things you actually need in a dashboard. **Vuetify Material Dashboard 2 PRO**  contains handpicked and optimized Vuejs plugins. Everything is designed to fit with one another. As you will be able to see, the dashboard you can access on [Creative Tim](https://www.creative-tim.com) is a customization of this product.
 
 **Vuetify** is developed exactly according to Material Design spec. Every component is handcrafted to bring you the best possible UI tools to your next great app. The development doesn't stop at the core components outlined in Google's spec. Through the support of community members and sponsors, additional components will be designed and made available for everyone to enjoy.
 
@@ -69,17 +69,17 @@ Let us know your thoughts below. And good luck with development!
 ## Versions
 
 
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vuetify-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/vuetify-material-dashboard-2-pro?ref=vtymd2p-readme)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-dashboard-pro?ref=vtymd2p-readme)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro-react?ref=vtymd2p-readme)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/laravel-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro-laravel?ref=vtymd2p-readme)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/django-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro-django?ref=vtymd2p-readme)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/html-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro?ref=vtymd2p-readme)
 
-[<img src="https://pbs.twimg.com/profile_images/900908683927982080/GWykKJ7r_400x400.jpg" width="60" height="60" />](https://www.creative-tim.com/product/vuetify-material-dashboard-pro?ref=vtymdp-readme)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro?ref=vtymdp-readme)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/react.svg" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro-react?ref=vtymdp-readme)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/vuejs.png" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-dashboard-pro?ref=vtymdp-readme)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/angular.png" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro-angular2?ref=vtymdp-readme)
 
-
-Vuetify | Vue | React | Angular | HTML |
-| --- | --- | --- | --- | --- |
-| [![Vuetify Material Dashboard PRO](https://s3.amazonaws.com/creativetim_bucket/products/207/original/opt_mdp_vuetify_thumbnail.jpg)](https://www.creative-tim.com/product/vuetify-material-dashboard-pro?ref=vtymdp-readme) | [![Vue Material Dashboard PRO](https://s3.amazonaws.com/creativetim_bucket/products/87/original/opt_mdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-pro?ref=vtymdp-readme) | [![Material Dashboard PRO React](https://s3.amazonaws.com/creativetim_bucket/products/80/original/opt_mdp_react_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-pro-react?ref=vtymdp-readme)  | [![Material Dashboard PRO Angular](https://s3.amazonaws.com/creativetim_bucket/products/55/original/opt_mdp_angular_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-angular2?ref=vtymdp-readme) | [![Material Dashboard PRO HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-pro/examples/dashboard.html?ref=vtymdp-readme)
+Vuetify | Vue | React | Laravel | Angular | HTML |
+| --- | --- | --- | --- | --- | --- |
+| [![Vuetify Material Dashboard 2 PRO](https://s3.amazonaws.com/creativetim_bucket/products/207/original/opt_mdp_vuetify_thumbnail.jpg)](https://www.creative-tim.com/product/vuetify-material-dashboard-pro?ref=vtymdp-readme) | [![Vue Material Dashboard PRO](https://s3.amazonaws.com/creativetim_bucket/products/87/original/opt_mdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-pro?ref=vtymdp-readme) | [![Material Dashboard PRO React](https://s3.amazonaws.com/creativetim_bucket/products/80/original/opt_mdp_react_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-pro-react?ref=vtymdp-readme)  | [![Material Dashboard PRO Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg?1556007802)](https://www.creative-tim.com/product/material-dashboard-pro-laravel?ref=vtymdp-readme)  | [![Material Dashboard PRO Angular](https://s3.amazonaws.com/creativetim_bucket/products/55/original/opt_mdp_angular_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-angular2?ref=vtymdp-readme) | [![Material Dashboard PRO HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-pro/examples/dashboard.html?ref=vtymdp-readme)
 
 ## Demo
 
@@ -97,7 +97,7 @@ Quick start options:
 
 
 ## Documentation
-The documentation for the **Vuetify Material Dashboard PRO** is hosted on vuetify [website](https://vuetifyjs.com/en/components/api-explorer).
+The documentation for the **Vuetify Material Dashboard 2 PRO** is hosted on vuetify [website](https://vuetifyjs.com/en/components/api-explorer).
 
 
 ## File Structure
@@ -107,119 +107,111 @@ Within the download you'll find the following directories and files:
 ```
 vuetify-material-dashboard-pro
 ├── README.md
-├── CHANGELOG.md
 ├── babel.config.js
-├── cypress.json
-├── jest.config.js
-├── now.json
 ├── package.json
-├── postcss.config.js
 ├── public
+│   ├── favicon-creative-tim.png
 │   ├── favicon.ico
 │   └── index.html
 ├── src
 │   ├── App.vue
 │   ├── assets
-│   │   └── vuetify.svg
+│   │   ├── fonts
+│   │   ├── img
+│   │   └── scss
+│   │       ├── material-dashboard
+│   │       └── material-dashboard.scss
 │   ├── components
-│   │   └── base
-│   │       ├── Card.vue
-│   │       ├── Item.vue
-│   │       ├── ItemGroup.vue
-│   │       ├── ItemSubGroup.vue
-│   │       ├── MaterialAlert.vue
-│   │       ├── MaterialCard.vue
-│   │       ├── MaterialChartCard.vue
-│   │       ├── MaterialDropdown.vue
-│   │       ├── MaterialSnackbar.vue
-│   │       ├── MaterialStatsCard.vue
-│   │       ├── MaterialTabs.vue
-│   │       ├── MaterialTestimony.vue
-│   │       ├── MaterialWizard.vue
-│   │       ├── Subheading.vue
-│   │       └── VComponent.vue
-│   ├── i18n.js
-│   ├── locales
-│   │   ├── ar.json
-│   │   └── en.json
+│   │   ├── AppBar.vue
+│   │   ├── AppBarAuth.vue
+│   │   ├── AppBarBlurAuth.vue
+│   │   ├── AppBarProfile.vue
+│   │   ├── Charts
+│   │   ├── Drawer.vue
+│   │   ├── Dropzone.vue
+│   │   ├── Footer.vue
+│   │   ├── HelloWorld.vue
+│   │   ├── HtmlEditor.vue
+│   │   ├── Widgets
+│   │   ├── WorldMap
+│   │   └── index.js
 │   ├── main.js
 │   ├── plugins
-│   │   ├── base.js
-│   │   ├── chartist.js
-│   │   ├── vee-validate.js
-│   │   ├── vue-world-map.js
+│   │   ├── dashboard-plugin.js
+│   │   ├── three
 │   │   └── vuetify.js
-│   ├── router.js
-│   ├── sass
-│   │   ├── main.scss
-│   │   ├── overrides.sass
-│   │   └── vuetify-material
-│   │       └── _sidebar.sass
-│   ├── store.js
+│   ├── router
+│   │   └── index.js
+│   ├── scss
+│   │   ├── variables
+│   ├── util
+│   │   └── throttle.js
 │   └── views
-│       ├── dashboard
+│       ├── About.vue
+│       ├── Applications
 │       │   ├── Calendar.vue
-│       │   ├── Charts.vue
+│       │   ├── Datatables.vue
+│       │   ├── Kanban.vue
+│       │   ├── Widgets
+│       │   └── Wizard.vue
+│       ├── Components
+│       │   └── Notifications.vue
+│       ├── Dashboard
+│       │   ├── Automotive.vue
+│       │   ├── Calendar.vue
+│       │   ├── Crm.vue
 │       │   ├── Dashboard.vue
-│       │   ├── Index.vue
-│       │   ├── Widgets.vue
-│       │   ├── component
-│       │   │   ├── Buttons.vue
-│       │   │   ├── Grid.vue
-│       │   │   ├── Icons.vue
-│       │   │   ├── Notifications.vue
-│       │   │   ├── Tabs.vue
-│       │   │   └── Typography.vue
-│       │   ├── components
-│       │   │   └── core
-│       │   │       ├── AppBar.vue
-│       │   │       ├── Drawer.vue
-│       │   │       ├── Footer.vue
-│       │   │       ├── Settings.vue
-│       │   │       └── View.vue
-│       │   ├── forms
-│       │   │   ├── ExtendedForms.vue
-│       │   │   ├── RegularForms.vue
-│       │   │   ├── ValidationForms.vue
-│       │   │   └── Wizard.vue
-│       │   ├── maps
-│       │   │   ├── FullScreenMap.vue
-│       │   │   └── GoogleMaps.vue
-│       │   ├── pages
-│       │   │   ├── Rtl.vue
-│       │   │   ├── Timeline.vue
-│       │   │   └── UserProfile.vue
-│       │   └── tables
-│       │       ├── DataTables.vue
-│       │       ├── ExtendedTables.vue
-│       │       └── RegularTables.vue
-│       └── pages
-│           ├── Error.vue
-│           ├── Index.vue
-│           ├── Lock.vue
-│           ├── Login.vue
-│           ├── Pricing.vue
-│           ├── Register.vue
-│           └── components
-│               ├── Btn.vue
-│               ├── Heading.vue
-│               ├── PlanCard.vue
-│               └── core
-│                   ├── AppBar.vue
-│                   ├── Footer.vue
-│                   └── View.vue
-├── tests
-│   ├── e2e
-│   │   ├── plugins
-│   │   │   └── index.js
-│   │   ├── specs
-│   │   │   └── test.js
-│   │   └── support
-│   │       ├── commands.js
-│   │       └── index.js
-│   └── unit
-│       └── example.spec.js
-├── vue.config.js
+│       │   ├── GettingStarted.vue
+│       │   ├── SmartHome.vue
+│       │   ├── VrDefault.vue
+│       │   ├── VrInfo.vue
+│       │   └── Widgets
+│       ├── Ecommerce
+│       │   ├── Orders
+│       │   │   ├── OrderDetails.vue
+│       │   │   ├── OrderList.vue
+│       │   │   └── Widgets
+│       │   └── Products
+│       │       ├── EditProduct.vue
+│       │       ├── NewProduct.vue
+│       │       ├── ProductPage.vue
+│       │       └── Widgets
+│       ├── Layout
+│       ├── Pages
+│       │   ├── Account
+│       │   │   ├── Billing.vue
+│       │   │   ├── Invoice.vue
+│       │   │   ├── Settings.vue
+│       │   │   └── Widgets
+│       │   ├── Alerts.vue
+│       │   ├── Authentication
+│       │   │   └── SignUp
+│       │   │       ├── Basic.vue
+│       │   │       ├── Cover.vue
+│       │   │       └── Illustration.vue
+│       │   ├── Charts.vue
+│       │   ├── Notifications.vue
+│       │   ├── Pricing.vue
+│       │   ├── Profile
+│       │   │   ├── ProfileOverview.vue
+│       │   │   ├── Projects.vue
+│       │   │   └── Teams.vue
+│       │   ├── Profile.vue
+│       │   ├── Projects
+│       │   │   └── Timeline.vue
+│       │   ├── Rtl.vue
+│       │   ├── Timeline.vue
+│       │   ├── Users
+│       │   │   ├── NewUser.vue
+│       │   │   ├── Reports.vue
+│       │   │   └── Widgets
+│       │   └── Widgets
+│       └── Tables
+│           ├── PaginatedTables.vue
+│           ├── RegularTables.vue
+│           ├── SortableTables.vue
+│           └── Tables
+└── vue.config.js
 ```
 
 ## Browser Support
@@ -240,9 +232,9 @@ At present, we officially aim to support the last two versions of the following 
 - For Front End Development - [Material Kit Pro ](https://www.creative-tim.com/product/material-kit-pro?ref=vtymdp-readme)
 
 ## Reporting Issues
-We use GitHub Issues as the official bug tracker for the **Vuetify Material Dashboard PRO**. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the **Vuetify Material Dashboard 2 PRO**. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the **Vuetify Material Dashboard PRO**. Check the **CHANGELOG** from your dashboard on our [website](https://www.creative-tim.com/).
+1. Make sure that you are using the latest version of the **Vuetify Material Dashboard 2 PRO**. Check the **CHANGELOG** from your dashboard on our [website](https://www.creative-tim.com/).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
@@ -252,7 +244,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2018 Creative Tim (https://www.creative-tim.com)
+- Copyright 2022 Creative Tim (https://www.creative-tim.com)
 - Creative Tim [license](https://www.creative-tim.com/license)
 
 ## Useful Links
