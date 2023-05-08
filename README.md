@@ -3,7 +3,7 @@
 
 ![version](https://img.shields.io/badge/version-3.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vuetify-material-dashboard-pro.svg)](https://github.com/creativetimofficial/ct-vuetify-material-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vuetify-material-dashboard-pro.svg?maxAge=259200)](https://github.com/creativetimofficial/ct-vuetify-material-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/material-dashboard) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
-![Product Gif](https://s3.amazonaws.com/creativetim_bucket/products/207/original/vuetify-material-dashboard-pro.jpg?1647534519)
+![Product Gif](https://s3.amazonaws.com/creativetim_bucket/products/207/original/opt_mdp_vuetify_thumbnail.jpg?1566575158)
 
 **Vuetify Material Dashboard 2 PRO** is a beautiful resource built over [Vuetify](https://vuetifyjs.com/en/), [Vuex](https://vuex.vuejs.org/installation.html) and [Vuejs](https://vuejs.org/). It will help you get started developing dashboards in no time. Vuetify Material Dashboard 2 PRO is the official Vuejs version of the Original [Material Dashboard PRO](https://www.creative-tim.com/product/material-dashboard-pro). Using the Dashboard is pretty simple but requires basic knowledge of Javascript, [Vuejs](https://vuejs.org/v2/guide/) and [Vue-Router](https://router.vuejs.org/en/).
 
@@ -14,6 +14,9 @@ We have created it thinking about things you actually need in a dashboard. **Vue
 **Vuex** is a state management pattern + library for **Vue.js** applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion. It also integrates with Vue's official devtools extension to provide advanced features such as zero-config time-travel debugging and state snapshot export/import.
 
 Let us know what you think and what we can improve below. And good luck with development!
+
+Special thanks go to:
+- [Nepcha Analytics](https://nepcha.com?ref=readme) for the analytics tool. Nepcha is already integrated with Vuetify Material Dashboard 2 PRO. You can use it to gain insights into your sources of traffic.
 
 ## Getting Started
 - Install Nodejs from [Nodejs Official Page](https://nodejs.org/en/)
@@ -230,6 +233,7 @@ At present, we officially aim to support the last two versions of the following 
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-vuetify-material-dashboard/issues)
 - Vue Material Dashboard PRO - [Demo](https://www.creative-tim.com/product/vue-material-dashboard-pro?ref=vtymdp-readme)
 - For Front End Development - [Material Kit Pro ](https://www.creative-tim.com/product/material-kit-pro?ref=vtymdp-readme)
+- [Nepcha Analytics](https://nepcha.com?ref=readme) - Analytics tool for your website
 
 ## Reporting Issues
 We use GitHub Issues as the official bug tracker for the **Vuetify Material Dashboard 2 PRO**. Here are some advices for our users that want to report an issue:
